@@ -46,7 +46,7 @@
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Vous devez être au moins au niveau 5 pour accéder au marchand cosmétique",
+ 	 	 	 	"trans": "Vous devez être au moins au niveau 5 pour accéder au marchand de cosmétique",
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	}
  	 	},
@@ -72,7 +72,7 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Pour accéder à la zone suivante, vous devez utiliser des Fragments de clé secrète obtenus dans les donjons, \r\n        et utiliser le Terminal pour cracker la clé de la zone suivante",
+ 	 	 	 	"trans": "Pour accéder à la zone suivante, vous devez utiliser des Fragments de clé secrète obtenus dans les donjons, \r\n        et utiliser le Terminal pour cracker la clé pour accéder à la zone suivante",
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
@@ -106,11 +106,11 @@
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Un établi avec les outils nécessaires vous permetant de bricoler votre équipement.",
+ 	 	 	 	"trans": "Un établi ainsi que les outils nécessaires vous permettera de bricoler votre équipement.",
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Vous devez être au moins niveau 10 pour accéder à la station d'étalonnage",
+ 	 	 	 	"trans": "Vous devez être au moins niveau 10 pour accéder à la station de calibration",
  	 	 	 	"eng": "You need to be at least level 10 to access Calibration Station"
  	 	 	}
  	 	},
@@ -355,7 +355,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Continuez ici pour combattre l'ennemi de niveau 1",
+ 	 	 	 	 	"trans": "Continuez ici pour combattre des ennemis de niveau 1",
  	 	 	 	 	"eng": "Continue here to fight level 1 enemy"
  	 	 	 	},
  	 	 	 	"description": {
